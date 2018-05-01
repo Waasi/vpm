@@ -1,5 +1,5 @@
 install-macos:
-	cp vpi /usr/local/bin/
+	cp vpm /usr/local/bin/
 
 install-linux:
-	cp vpi /usr/bin/
+	cp vpm /usr/bin/
